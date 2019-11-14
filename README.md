@@ -23,6 +23,10 @@ Compile TypeScript code.
 npm run build
 ```
 
+Ensure that VSCode uses TypeScript 3.7.
+
+![Change TypeScript version](./change-ts-version.gif)
+
 ## Usage
 
 Execute `nullish-coalescing.js`.
