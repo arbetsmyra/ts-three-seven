@@ -1,0 +1,16 @@
+{
+  "name": "ts-three-seven",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "return 0"
+  },
+  "author": "Anthon <anthon.kendel@gmail.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "ts-node": "^8.5.0",
+    "typescript": "^3.7.2"
+  }
+}
