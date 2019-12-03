@@ -2,7 +2,7 @@
 
 TypeScript 3.7 - Optional chaining and nullish coalescing
 
-[![license](https://img.shields.io/github/license/arbetsmyra/readme-template)](https://github.com/arbetsmyra/eslint-config/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/arbetsmyra/ts-three-seven)](https://github.com/arbetsmyra/ts-three-seven/blob/master/LICENSE)
 
 ## Installation
 
@@ -35,7 +35,7 @@ Execute `nullish-coalescing.js`.
 node build/nullish-coalescing.js
 ```
 
-Execute `build/optional-chaining.js`.
+Execute `optional-chaining.js`.
 
 ```sh
 node build/optional-chaining.js
